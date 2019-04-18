@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/oizumi/sample.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/ohizumi_soccer/sample.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -71,11 +71,14 @@ background-color: rgba(0, 225, 0, 0.8);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!--
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
+-->
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
