@@ -80,7 +80,7 @@ background-color: rgba(0, 225, 0, 0.8);
 -->
 
 
-<a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="1200" /></a>
 <a href="20190407_002.jpg" data-lightbox="abc"><img src="20190407_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190407_004.jpg" data-lightbox="abc"><img src="20190407_004.jpg" alt="サンプル画像" width="900" /></a>
