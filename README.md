@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/ohizumi_soccer/sample.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/ohizumi_soccer/20190407_006.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -80,7 +80,12 @@ background-color: rgba(0, 225, 0, 0.8);
 -->
 
 
-
+<a href="20190407_006.jpg" data-lightbox="abc"><img src="20190407_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_002.jpg" data-lightbox="abc"><img src="20190407_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_004.jpg" data-lightbox="abc"><img src="20190407_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_005.jpg" data-lightbox="abc"><img src="20190407_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
